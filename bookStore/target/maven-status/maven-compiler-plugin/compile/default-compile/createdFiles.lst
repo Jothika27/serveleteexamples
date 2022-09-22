@@ -1,0 +1,6 @@
+com\kgisl\book\controller\SoldierController.class
+com\kgisl\book\controller\AdminServlet.class
+com\kgisl\book\controller\MyFilter.class
+com\kgisl\book\controller\BookController.class
+com\kgisl\book\entity\Soldier.class
+com\kgisl\book\entity\Book.class
