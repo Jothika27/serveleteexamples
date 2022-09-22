@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [31/Aug/2022:22:11:15 +0530] "GET / HTTP/1.1" 200 380 http-bio-9090-exec-9 32
+0:0:0:0:0:0:0:1 - - [31/Aug/2022:22:13:18 +0530] "GET /login.jsp HTTP/1.1" 200 661 http-bio-9090-exec-10 12
+0:0:0:0:0:0:0:1 - - [31/Aug/2022:22:13:30 +0530] "POST /LoginServlet HTTP/1.1" 200 467 http-bio-9090-exec-10 64
+0:0:0:0:0:0:0:1 - - [31/Aug/2022:22:13:35 +0530] "GET /ProfileServlet HTTP/1.1" 200 490 http-bio-9090-exec-10 3
+0:0:0:0:0:0:0:1 - - [31/Aug/2022:22:13:37 +0530] "GET /LogoutServlet HTTP/1.1" 200 482 http-bio-9090-exec-10 9
+0:0:0:0:0:0:0:1 - - [31/Aug/2022:22:13:40 +0530] "GET /ProfileServlet HTTP/1.1" 200 680 http-bio-9090-exec-10 4
